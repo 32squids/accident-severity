@@ -2,6 +2,10 @@
 
 **Authors:** Sam Simmons, David Jorgensen, Christopher Caryotakis
 
+## Tools
+
+Python (scikit-learn, XGBoost, pandas, NumPy)
+
 ## Overview
 
 An analysis of how weather conditions and road infrastructure relate to traffic accident severity, using a dataset of roughly 7 million U.S. car accidents (Moosavi et al.). The project evaluates which environmental and infrastructural factors are the strongest predictors of accident severity and distance of road impacted.
@@ -30,6 +34,3 @@ Uses the US Accidents (March 2023) dataset from Kaggle, based on Moosavi et al (
 - `Accident Severity Prediction.pdf` — full writeup
 - `Accident Project Code.ipynb` — data cleaning and modeling code
 
-## Tools
-
-Python (scikit-learn, XGBoost, pandas, NumPy)
