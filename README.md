@@ -2,9 +2,7 @@
 
 **Authors:** Sam Simmons, David Jorgensen, Christopher Caryotakis
 
-## Tools
-
-Python (scikit-learn, XGBoost, pandas, NumPy)
+**Tools:** Python (scikit-learn, XGBoost, pandas, NumPy)
 
 ## Overview
 
